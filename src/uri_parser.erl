@@ -20,7 +20,7 @@
 
 %% See http://tools.ietf.org/html/rfc3986
 
--module(uri_parser).
+-module(uri_parser). %%测试一下
 
 -export([parse/2]).
 
